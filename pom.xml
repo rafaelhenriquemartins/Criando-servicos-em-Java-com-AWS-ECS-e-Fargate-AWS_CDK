@@ -37,7 +37,6 @@
     </build>
 
     <dependencies>
-        <!-- AWS Cloud Development Kit -->
         <dependency>
             <groupId>software.amazon.awscdk</groupId>
             <artifactId>core</artifactId>
@@ -87,6 +86,5 @@
             <version>3.18.1</version>
             <scope>test</scope>
         </dependency>
-
     </dependencies>
 </project>
